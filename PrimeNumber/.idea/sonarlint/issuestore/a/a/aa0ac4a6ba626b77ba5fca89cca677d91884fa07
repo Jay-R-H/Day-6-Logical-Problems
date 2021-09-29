@@ -1,0 +1,6 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(—£Ê¥ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïŒåÙ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†×éýüÿÿÿÿ8ßŸ¾ÙÂ/
+V	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(±˜„¼þÿÿÿÿ8ßŸ¾ÙÂ/
